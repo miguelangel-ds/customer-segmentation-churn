@@ -68,7 +68,7 @@ El dataset contiene información de clientes de un e-commerce ficticio, con las 
 - Clientes con **menor ingreso gastan más y abandonan menos**.
 - Clientes con **mayor ingreso tienden a gastar menos y abandonan más**.
 - El **cluster 2 es el más riesgoso** y necesita campañas de retención personalizadas.
-- El **cluster 0 es el más rentable** a pesar de ser de ingresos bajos.
+- El **cluster 1 es el más rentable** a pesar de ser de ingresos bajos.
 
 ---
 
